@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+}
+
+header{
+    display: grid;
+    grid-template-columns: 90px 900px;
+}
+
+h1{
+    text-align: end;
+    margin-left: 200px;
+}
+.div{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+#formulario{
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(184, 174, 174);
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px black solid;
+    margin-right: 900px;
+}
+#listaSolicitud{
+    background-color: aqua;
+}
+button{
+    width: 100px;
+    height: 60px;
+    
+}

@@ -1,0 +1,37 @@
+body{
+    background-color: #e7d3af;
+}
+
+.contenedor02{
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(184, 174, 174);
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px black solid;
+}
+
+.alineacion{
+    display: grid;
+    grid-template-columns: 500px 1fr ;
+}
+
+
+.foto{
+    margin-left: 250px;
+    margin-top: 195px;
+    width: auto;
+    height: 300px;
+}
+
+
+
+#crear{
+    width: 70px;
+    height: 30px;
+}
+
+:any-link{
+    text-decoration: none;
+    color: rgb(54, 18, 87);
+}

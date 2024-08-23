@@ -1,0 +1,39 @@
+body {
+  background-color: #faebd7;
+}
+
+header {
+  grid-template-columns: 90px 900px;
+  display: grid;
+}
+
+h1 {
+  text-align: end;
+  margin-left: 200px;
+}
+
+.div {
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+}
+
+#formulario {
+  text-align: center;
+  background-color: #b8aeae;
+  border: 2px solid #000;
+  border-radius: 10px;
+  margin-right: 900px;
+  padding: 10px;
+  font-size: x-large;
+}
+
+#listaSolicitud {
+  background-color: #0ff;
+}
+
+button {
+  width: 100px;
+  height: 60px;
+}
+
+/*# sourceMappingURL=formulario.256b64c0.css.map */

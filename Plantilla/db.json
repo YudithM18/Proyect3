@@ -1,3 +1,19 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "5802",
+      "usuario": "Paula654",
+      "correo": "marin@fwd.com",
+      "pass": "poiu",
+      "codigo": "adm01"
+    },
+    {
+      "id": "e465",
+      "usuario": "Emel86",
+      "correo": "mayorga@fwd.com",
+      "pass": "trew",
+      "codigo": "prof02"
+    }
+  ],
+  "solicitudes": []
 }
